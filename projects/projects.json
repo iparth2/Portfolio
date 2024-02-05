@@ -1,0 +1,45 @@
+[
+
+  {
+    "name": "AninePhilla",
+    "desc": "A simple landing page made in HTML and CSS has five anchors.",
+    "image": "anime",
+    "links": {
+      "code": "https://github.com/iparth2/Landing-page.Anime?tab=readme-ov-file"
+    }
+  },
+  {
+    "name": "Hand Gesture Mouse",
+    "desc": "Built using python & Open C.V",
+    "image": "mouse",
+    "links": {
+     
+      "code": "https://github.com/iparth2/Hand_Gesture.Mouse"
+    }
+  },
+  {
+    "name": "H.R Dashboard",
+    "desc": "Built using Tableau",
+    "image": "dashboard",
+    "links": {
+      "view": "",
+      "code": "https://www.linkedin.com/feed/update/urn:li:activity:7132968326300876800/?originTrackingId=YRKTLZpCR9eyMyosrehmpw%3D%3D"
+    }
+  },
+  {
+    "name": "Hand.Gesture-volume.controller",
+    "desc":  "Built using python & Open C.V",
+    "image": "HGVC",
+    "links": {
+      "code": "https://github.com/iparth2/Hand.Gesture-volume.controller"
+    }
+  },
+  {
+    "name": "To Do Just",
+    "desc": "Build using javascript",
+    "image": "just",
+    "links": {
+      "code": "https://github.com/iparth2/TO-DO-LIST"
+    }
+  }
+]
